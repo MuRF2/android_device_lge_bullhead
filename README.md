@@ -1,3 +1,3 @@
-# Nougat 7.1 blobs
+# Oreo 8.1 blobs
 
-origin: https://git.aicp-rom.com/proprietary_vendor_lge.git/tree/bullhead?h=n7.1
+origin: https://git.aicp-rom.com/proprietary_vendor_lge.git/tree/bullhead?h=o8.1
