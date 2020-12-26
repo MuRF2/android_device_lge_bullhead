@@ -1,0 +1,1 @@
+origin: https://git.aicp-rom.com/proprietary_vendor_lge.git/tree/bullhead 
